@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello! Welcome to my GitHub profile!
+
+I am Maria, a soon-to-be front-end developer from Norway. I have a bachelor's degree in informatics, and soon I'll have an associate's degree in front-end development.
+
+## Programming languages and frameworks
 
 <!--
 **lilleberg/lilleberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
