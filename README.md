@@ -1,20 +1,18 @@
-# Hello! Welcome to my GitHub profile!
+<h1 align="center">Welcome!</h1>
 
-I am Maria, a soon-to-be front-end developer from Norway. I have a bachelor's degree in informatics, and soon I'll have an associate's degree in front-end development.
+## About me
+Hi! I'm Maria, 26 years old and from Norway. At the time of writing I am studiying front-end development, but in a few weeks I'll be working as a developer. Very exciting! I'll soon have an associate's degree in front-end development, and I have a bachelor's degree in Informatics: design, use, interaction.
 
-## Programming languages and frameworks
+The work on my GitHub profile displays the journey I have had learning front-end. Though design is not my strongest suit, I've done my best during the projects we've had through the front-end studies.
 
-<!--
-**lilleberg/lilleberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm on LinkedIn
+Here's my [profile](https://www.linkedin.com/in/maria-lilleberg/).
 
-Here are some ideas to get you started:
+## Programming
+- HTML
+- CSS
+- Sass
+- JavaScript
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also familiar with Java and TypeScript.
