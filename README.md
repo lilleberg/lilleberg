@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, hi, hello. I'm Maria, 28 years old. Working as a frontend developer at Gjensidige (it's great). I have an associate's degree in frontend development, and a bachelor's degree in Informatics: design, use, interaction.
+Hi, hi, hello. I'm Maria, 29 years old. Working as a frontend developer at Gjensidige (it's great). I have an associate's degree in frontend development, and a bachelor's degree in Informatics: design, use, interaction.
 
 ### I'm on LinkedIn
 
