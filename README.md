@@ -8,20 +8,6 @@ At Gjensidige I work with our <a href="https://www.gjensidige.builders/docs/core
 
 Here is [my LinkedIn profile](https://www.linkedin.com/in/maria-lilleberg/), if you're interested.
 
-```CSS
-// CSS is awesome!
-```
-
-## Programming
-
-- HTML
-- CSS
-- Sass
-- Less
-- JavaScript
-- Typescript
-- React
-
-I am also familiar with Java.
-
 ## Goodbye
+
+Have a nice day!
