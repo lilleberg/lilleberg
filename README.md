@@ -2,11 +2,15 @@
 
 ## About me
 
-Hi, hi, hello. I'm Maria, 29 years old. Working as a frontend developer at Gjensidige (it's great). I have an associate's degree in frontend development, and a bachelor's degree in Informatics: design, use, interaction.
+Hi, hi, hello. I'm Maria, and I work as a frontend developer at Gjensidige. I have an associate's degree in frontend development, and a bachelor's degree in Informatics: design, use, interaction.
 
-### I'm on LinkedIn
+At Gjensidige I work with our <a href="https://www.gjensidige.builders/docs/core/">Design System Builders</a>. It is very fun!
 
-Here's my [profile](https://www.linkedin.com/in/maria-lilleberg/).
+Here is [my LinkedIn profile](https://www.linkedin.com/in/maria-lilleberg/), if you're interested.
+
+```CSS
+// CSS is awesome!
+```
 
 ## Programming
 
